@@ -27,7 +27,7 @@ typesof refeeence -->
     */
 
 import org.example.Person;
-
+//
 public class Memory {
 //    int primitivevariable = 10;//primitve data type
 //    Person p = new Person();// object

@@ -11,4 +11,6 @@ public class variable_args {
     }
     // variable_args a=new variable_args();
     // a.sum(2,1,2,3)
+
+
 }
